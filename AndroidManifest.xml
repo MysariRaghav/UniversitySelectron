@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kmit.project.universityselectron"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+	<uses-permission android:name="android.permission.INTERNET" />  
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" 
+        android:name=".App">
+        <activity
+            android:name="kmit.project.universityselectron.GeneralInfoActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PreferenceActivity"
+            android:label="@string/prefs_name"
+            android:parentActivityName=".GeneralInfoActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.PreferenceActivity" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WebActivity"
+            android:label="@string/webA_name"
+            android:parentActivityName=".CollegeAdviceActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.WebActivity" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity
+            android:name=".TipsActivity"
+            android:label="@string/tips_name"
+            android:parentActivityName=".GeneralInfoActivity"  >
+            <intent-filter>
+                <action android:name="android.intent.action.TipsActivity" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".NewsActivity"
+            android:label="@string/news_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.NewsActivity" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".CollegeAdviceActivity"
+            android:label="@string/college_advice_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.CollegeAdviceActivity" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".ScoresActivity"
+            android:label="@string/scores_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.ScoresActivity" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".ScoresAdivceActivity"
+            android:label="@string/scores_advice_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.ScoresAdviceActivity" />
+            </intent-filter>
+        </activity>
+        
+        
+    </application>
+
+</manifest>

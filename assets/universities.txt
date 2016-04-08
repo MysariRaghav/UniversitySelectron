@@ -1,0 +1,124 @@
+Massachusetts Institute of Technology	www.mit.edu	334	340
+Stanford University	www.stanford.edu	334	340
+University of California- Berkeley	www.berkeley.edu	334	340
+University of Illinois – Urbana Champaign	www.uiuc.edu	334	340
+University of Michigan Ann Arbor	www.umich.edu	334	340
+Cornell University	www.cornell.edu	334	340
+University of Texas at Austin	www.utexas.edu	334	340
+University of Maryland – College park	www.umd.edu	334	340
+University of California – San Diego	www.ucsd.edu	334	340
+California Institute of Technology	www.caltech.edu	334	340
+University of Wisconsin- Madison	www.wisc.edu	334	340
+University of California Los Angles	www.ucla.edu	334	340
+Harvard University	www.harvard.edu	334	340
+Carnegie Mellon University	www.cmu.edu	334	340
+Purdue University –West Lafayette	www.purdue.edu	325	333
+Princeton University	www.princeton.edu	325	333
+Pennsylvania State University –Univ Park	www.psu.edu	325	333
+Georgia Institute of Technology	www.gatech.edu	325	333
+Virginia poly Tech	www.vt.edu	325	333
+Texas A & M College Station	www.tamu.edu	325	333
+Duke University	www.duke.edu	325	333
+University of Washington – Seattle	www.washington.edu	325	333
+University of Minnesota	www.umn.edu	325	333
+Columbia University	www.columbia.edu	325	333
+Yale University	www.yale.edu	325	333
+Ohio State University	www.osu.edu	325	333
+University of Pittsburgh	www.pitt.edu	325	333
+Brown university (RI)	www.brown.edu	325	333
+John Hopkins University	www.jhu.edu	325	333
+North Carolina State University	www.ncsu.edu	325	333
+Dartmouth College, NH	www.dartmouth.edu	325	333
+Iowa State University	www.iastate.edu	325	333
+University of California- Santa Barbara	www.ucsb.edu	325	333
+Case Western Reserve University	www.cwru.edu	325	333
+Northwestern University (IL)	www.northwestern.edu	325	333
+Arizona State University	www.asu.edu	325	333
+University of Iowa	www.uiowa.edu	325	333
+Rutgers, State Univ of NJ, New Brunswick	www.rutgers.edu	325	333
+Rice University	www.rice.edu	325	333
+University of Rochester	www.rochester.edu	325	333
+University of Virginia	www.virginia.edu	325	333
+University of Pennsylvania	www.upenn.edu	325	333
+University of Delaware	www.udel.edu	321	324
+University of California – Davis	www.ucdavis.edu	321	324
+University of Colorado –Boulder	www.colorado.edu	321	324
+University of Notre Dame	www.nd.edu	321	324
+University of Chicago	www.uchicago.edu	321	324
+Lehigh University (PA)	www.lehigh.edu	321	324
+University of Southern California	www.usc.edu	321	324
+Rensselaer Polytechnic Institute (NY)	www.rpi.edu	321	324
+University of Cincinnati	www.uc.edu	321	324
+University of Florida; Gainesville	www.ufl.edu	321	324
+Washington University St Louis	www.wustl.edu	321	324
+Vanderbilt University (TN)	www.vanderbilt.edu	321	324
+University of California - Irvine	www.uci.edu	321	324
+Michigan State University	www.msu.edu	321	324
+University of Massachusetts – Amherst	www.umass.edu	321	324
+Kansas State University	www.ksu.edu	321	324
+University of Alabama- Tuscaloosa	www.ua.edu	321	324
+University of Arizona-Tucson	www.uarizona.edu	321	324
+University of North Carolina- Chapel Hill	www.unc.edu	321	324
+Colorado School of Mines	www.mines.edu	321	324
+University of Illinois at Chicago	www.uic.edu	321	324
+University of New Hampshire	www.unh.edu	321	324
+University of New Mexico	www.unm.edu	321	324
+Boston University	www.bu.edu	321	324
+Colorado State University	www.colostate.edu	321	324
+Auburn University	www.auburn.edu	321	324
+University of Buffalo	www.buffalo.edu	321	324
+University of Akron	www.uakron.edu	321	324
+Drexel University	www.drexel.edu	321	324
+Syracuse University	www.syr.edu	321	324
+Oregon State University	www.oregonstate.edu	321	324
+Clemson University	www.clemson.edu	321	324
+University of Missouri – Rolla	www.umr.edu	315	320
+University of Nebraska Lincoln	www.unl.edu	315	320
+University of Connecticut	www.uconn.edu	315	320
+University of Utah	www.utah.edu	315	320
+University of Tennessee-Knoxville	www.utk.edu	315	320
+West Virginia University	www.wvu.edu	315	320
+University of Kansas	www.ku.edu	315	320
+SUNY- stony brook	www.sunnysb.edu	315	320
+University of Georgia	www.uga.edu	315	320
+University of Missouri-Columbia	www.mizzou.edu	315	320
+Oklahoma State University	www.okstate.edu	315	320
+Louisiana State University-Baton Rouge	www.lsu.edu	315	320
+University of South Carolina	www.sc.edu	315	320
+Tulane University	www.tulane.edu	315	320
+Indiana University - Bloomington	www.indiana.edu	315	320
+University of Oklahoma	www.ou.edu	315	320
+University of Miami	www.miami.edu	315	320
+University of Texas – Dallas	www.utdallas.edu	315	320
+Ohio University –Athens	www.ohiou.edu	315	320
+University of Houston –Houston	www.uh.edu	315	320
+Michigan technological University	www.mtu.edu	315	320
+University of Maine	www.umaine.edu	315	320
+University of Kentucky	www.uky.edu	315	320
+George Washington University	www.gwu.edu	315	320
+University of Central Florida	www.ucf.edu	315	320
+Northern Illinois University	www.niu.edu	309	314
+Indiana University Purdue University	www.iupui.edu	309	314
+University of Memphis	www.memphis.edu	309	314
+University of Nevada Los Vegas	www.unlv.edu	309	314
+University of Alabama-Huntsville	www.uah.edu	309	314
+University of Idaho	www.uidaho.edu	309	314
+Mississippi State university	www.msstate.edu	309	314
+University of Missouri, Kansas City	www.umkc.edu	309	314
+University of North Carolina-Charlotte	www.uncc.edu	309	314
+Oregon Graduate Institute of Science &Tech	www.ogi.edu	309	314
+George Mason University	www.gmu.edu	309	314
+University of Indianapolis	www.uindy.edu	309	314
+University of Nebraska Omaha	www.unomaha.edu	309	314
+University of South Florida- Tampa	www.usf.edu	309	314
+Middle Tennessee State University	www.mtsu.edu	309	314
+Polytechnic University (NY)	www.poly.edu	309	314
+University of New Orleans	www.uno.edu	309	314
+University of Arkansas- Fayetteville	www.uark.edu	309	314
+Tennessee Technological University	www.tntech.edu	309	314
+University of South Florida	www.usf.edu	309	314
+University of Louisiana-Lafayette	www.lousiana.edu	309	314
+Florida Institute of Technology	www.fit.edu	309	314
+Illinois Institute of Technology	www.iit.edu	309	314
+Washington State University	www.wsu.edu	309	314
+Georgia State University	www.gsu.edu	309	314

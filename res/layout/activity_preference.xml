@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView2"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background2"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context=".MainActivity" >
+
+        <EditText
+            android:id="@+id/et_budget"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/tv_budget"
+            android:layout_alignRight="@+id/et_location"
+            android:layout_toRightOf="@+id/tv_budget"
+            android:ems="10"
+            android:inputType="phone"
+            android:textColor="#a5d4e2" />
+
+        <TextView
+            android:id="@+id/tv_listOfColleges"
+            android:textColor="#a5d4e2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_budget"
+            android:layout_below="@+id/tv_budget"
+            android:layout_marginTop="31dp"
+            android:text="@string/lCollege" />
+		  <Spinner
+            android:textColor="#a5d4e2"
+            android:id="@+id/et_listOfColleges"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+             android:layout_alignBottom="@+id/tv_listOfColleges"
+            android:layout_alignRight="@+id/et_budget"
+            android:layout_toRightOf="@+id/tv_listOfColleges"
+            android:ems="10" />
+        <!-- <EditText
+            android:id="@+id/et_listOfColleges"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/tv_listOfColleges"
+            android:layout_alignRight="@+id/et_budget"
+            android:layout_toRightOf="@+id/tv_listOfColleges"
+            android:ems="10" 
+             android:inputType="textMultiLine"
+             android:textColor="#a5d4e2"/> -->
+
+        <TextView
+            android:id="@+id/tv_location"
+            android:textColor="#a5d4e2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="33dp"
+            android:text="@string/location" />
+
+        <TextView
+            android:id="@+id/tv_TakenAnyTest"
+            android:textColor="#a5d4e2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_listOfColleges"
+            android:layout_below="@+id/tv_listOfColleges"
+            android:layout_marginTop="98dp"
+            android:text="@string/takenTest" />
+
+        <CheckBox
+            android:id="@+id/cb_takenTestYes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tv_TakenAnyTest"
+            android:layout_alignBottom="@+id/tv_TakenAnyTest"
+            android:layout_alignLeft="@+id/et_location"
+            android:text="@string/textTakenTestYes" />
+
+        <TextView
+            android:id="@+id/tv_budget"
+            android:textColor="#a5d4e2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_location"
+            android:layout_below="@+id/et_location"
+            android:layout_marginTop="19dp"
+            android:text="@string/budget" />
+
+        <CheckBox
+            android:id="@+id/cb_takenTestNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/cb_takenTestYes"
+            android:layout_alignBottom="@+id/cb_takenTestYes"
+            android:layout_toRightOf="@+id/cb_takenTestYes"
+            android:text="@string/textTakenTestNo" />
+
+        <EditText
+            android:id="@+id/et_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/tv_location"
+            android:layout_toRightOf="@+id/tv_location"
+            android:ems="10"
+            android:inputType="textMultiLine"
+            android:textColor="#a5d4e2" >
+
+            <requestFocus />
+        </EditText>
+
+    </RelativeLayout>
+
+</ScrollView>
